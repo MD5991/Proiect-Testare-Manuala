@@ -56,12 +56,12 @@ Project Epic
 Project Epic - Requirements
 Project Stories
 
-Sign up Page 
-Log in Page 
-Contact Page 
-Reset Password Page 
-Product Genres 
-Product Platforms 
+Sign up Page
+Log in Page
+Contact Page
+Reset Password Page
+Product Genre
+Product Platforms
 Cart
 
 Project Test Cases
